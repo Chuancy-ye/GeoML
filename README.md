@@ -11,15 +11,10 @@ Geochemical anomaly identification and gold deposits prospect prediction based o
   
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/fe0a8dff-3642-4ca0-ae84-a7c59913c90f)
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/c3e805b3-1993-4ba2-998c-3eff6edb1d38)
-
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/edc7bce8-c757-46b8-99bc-40b3fcf1ce01)
-
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/f64f96d7-ef3e-4882-a715-d59c3b2e06e1)
-
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/f65aca33-3723-4392-b76c-166c15caf52d)
-
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/7f36235e-2524-43e3-b01f-16e2af6e85a7)
-
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/68cf9aaf-4be2-453a-8539-bddf736e7540)
 
 
