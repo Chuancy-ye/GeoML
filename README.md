@@ -17,6 +17,7 @@ Geochemical anomaly identification and gold deposits prospect prediction based o
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/f65aca33-3723-4392-b76c-166c15caf52d)
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/7f36235e-2524-43e3-b01f-16e2af6e85a7)
 ROC curve
+
 ![image](https://github.com/Chuancy-ye/GeoML/assets/51057405/68cf9aaf-4be2-453a-8539-bddf736e7540)
 
 
